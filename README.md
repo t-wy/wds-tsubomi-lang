@@ -12,7 +12,8 @@ World Dai Star — Tsubomi Language Database
   - only used if the pronunciations are different from the typical ones
     - leave it blank if it is pronounced as-is, but a delivering some special meaning.
   - can be in hiragana (当て字) or katakana (loan words・外来語)
-  - include "・" only if there are official furigana (振り仮名)
+  - include "・" only if there are official furigana (振り仮名) having appeared in text form
+    - except established prefixes like (「ザ・」＝the)
 - english (英語)
   - if the wordings come from an English phrase but written in katakana
   - not english translation (英訳ではない)
