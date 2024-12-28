@@ -10,6 +10,8 @@ Tsubomi Language Database
 - img/
 
 ### Additional Information (補足)
+- Only those with pronunciations different from the typical ones are included.
+  - i.e. Chūnibyō-style phrases with words pronounced as-is are not included.
 - Not intended for copyright infringement.
   - Refer to [『ワールドダイスター 夢のステラリウム』関連二次創作・ゲーム実況配信及び動画投稿に関するガイドライン](https://world-dai-star.com/news/1947)
     - ※「投稿または配信NG」に関する補足
