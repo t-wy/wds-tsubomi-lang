@@ -350,5 +350,49 @@
         "meaning": "",
         "source": "サイドストーリー 【踏みにじられた者の怒り】猫足蕾 — 前編",
         "notes": ""
+    },
+    {
+        "phrase": "渾沌",
+        "pronunciation": "カオス",
+        "english": "chaos",
+        "orilang": "",
+        "screenshot": "side_story/20.png",
+        "highlight": "side_story/20_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【悪鬼退散っ！】猫足蕾 — 前編",
+        "notes": ""
+    },
+    {
+        "phrase": "秩序",
+        "pronunciation": "コスモス",
+        "english": "cosmos",
+        "orilang": "kosmos",
+        "screenshot": "side_story/chisa_1.png",
+        "highlight": "side_story/chisa_1_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【悪鬼退散っ！】猫足蕾 — 前編",
+        "notes": "知冴の発言、ギリシア語：κόσμος"
+    },
+    {
+        "phrase": "直感",
+        "pronunciation": "インスピレーション",
+        "english": "inspiration",
+        "orilang": "",
+        "screenshot": "side_story/21.png",
+        "highlight": "side_story/21_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【悪鬼退散っ！】猫足蕾 — 前編",
+        "notes": ""
+    },
+    {
+        "phrase": "陽符",
+        "pronunciation": "サンライトタリスマン",
+        "english": "sunlight talisman",
+        "orilang": "",
+        "screenshot": "side_story/22.png",
+        "highlight": "side_story/22_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【悪鬼退散っ！】猫足蕾 — 後編",
+        "notes": ""
     }
 ]
