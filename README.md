@@ -18,9 +18,12 @@ World Dai Star — Tsubomi Language Database
   - if the wordings come from an English phrase but written in katakana
   - not english translation (英訳ではない)
     - follow the katakana form as possible (including the shortened forms)
+  - also reserved for alternative romanization from the orilang if English speakers may transliterate the term different to the one native speakers use.
 - orilang (原語)
   - corresponding words in the source language
   - if the wordings come from other languages than English (e.g. Latin), or mixed languages
+  - if the language does not mainly use latin script (e.g. Chinese), use **romanized form native speakers mainly use** (e.g. pinyin), and state the original script in the "notes" field
+    - If English speakers may recognize a different romanized form, put such form in the "english" field.
 - screenshot (スクリーンショット)
   - the original image containing the phrase
 - highlight (ハイライト)

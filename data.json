@@ -306,5 +306,38 @@
         "meaning": "",
         "source": "サイドストーリー 【劇団電姫】猫足蕾 — 後編",
         "notes": ""
+    },
+    {
+        "phrase": "運命の迷い子",
+        "pronunciation": "ストレイシープ",
+        "english": "stray sheep",
+        "orilang": "",
+        "screenshot": "side_story/17.png",
+        "highlight": "side_story/17_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【電姫の占い師】猫足蕾 — 前編",
+        "notes": ""
+    },
+    {
+        "phrase": "陽の氣",
+        "pronunciation": "チー",
+        "english": "chi",
+        "orilang": "qi",
+        "screenshot": "side_story/18.png",
+        "highlight": "side_story/18_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【電姫の占い師】猫足蕾 — 前編",
+        "notes": "氣 (https://ja.wikipedia.org/wiki/気)"
+    },
+    {
+        "phrase": "龍脈",
+        "pronunciation": "レイライン",
+        "english": "ley line",
+        "orilang": "",
+        "screenshot": "side_story/18.png",
+        "highlight": "side_story/18_2.png",
+        "meaning": "",
+        "source": "サイドストーリー 【電姫の占い師】猫足蕾 — 前編",
+        "notes": ""
     }
 ]
