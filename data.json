@@ -85,7 +85,7 @@
         "highlight": "spot_story/4_1.png",
         "meaning": "",
         "source": "スポットストーリー 電気街 猫足蕾、烏森大黒 「むっ……この気配は…」",
-        "notes": "「リベレーション」ではないようだ"
+        "notes": "「リベレーション」ではないようだ、「ディヴァインレヴェレーション」かも（？）"
     },
     {
         "phrase": "華",
@@ -265,14 +265,14 @@
     },
     {
         "phrase": "運命の札",
-        "pronunciation": "デスティニーカード",
+        "pronunciation": "ディスティニーカード",
         "english": "destiny card",
         "orilang": "",
         "screenshot": "side_story/11.png",
         "highlight": "side_story/11_1.png",
         "meaning": "",
         "source": "サイドストーリー 【劇団電姫】猫足蕾 — 前編",
-        "notes": ""
+        "notes": "more like ディスティニーカード than デスティニーカード"
     },
     {
         "phrase": "選ばれし者",
@@ -298,7 +298,7 @@
     },
     {
         "phrase": "運命の札",
-        "pronunciation": "デスティニーカード",
+        "pronunciation": "ディスティニーカード",
         "english": "destiny card",
         "orilang": "",
         "screenshot": "side_story/14.png",
@@ -309,7 +309,7 @@
     },
     {
         "phrase": "運命の札",
-        "pronunciation": "デスティニーカード",
+        "pronunciation": "ディスティニーカード",
         "english": "destiny card",
         "orilang": "",
         "screenshot": "side_story/15.png",
