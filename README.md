@@ -43,7 +43,7 @@ World Dai Star — Tsubomi Language Database
   - Refer to [『ワールドダイスター 夢のステラリウム』関連二次創作・ゲーム実況配信及び動画投稿に関するガイドライン](https://world-dai-star.com/news/1947)
     - ※「投稿または配信NG」に関する補足
     - 感想、及び感想に動画やスクリーンショットを添付しての投稿であれば問題ございませんが、<ins>ゲームをプレイしなくてもネタバレ行為に該当するものは問題が生じます</ins>ので、ご注意ください。
-  - By principle, contents in the 「投稿または配信NG」 category are restricted to a single screenshot in order not to spoil the contents.
+  - By principle, contents in the 「投稿または配信NG」 category are restricted to a single screenshot per phrase in order not to spoil the contents.
 - Project (プロジェクト): ©Sirius/Project WDS
 - Game (ゲームアプリ): ©Sirius/Project WDS Developed and Published by KMS,inc.
 
