@@ -14,6 +14,10 @@ World Dai Star — Tsubomi Language Database
   - can be in hiragana (当て字) or katakana (loan words・外来語)
   - include "・" only if there are official furigana (振り仮名) having appeared in text form
     - except established prefixes like (「ザ・」＝the)
+  - 「バ」行 vs 「ヴァ」行？
+    - undecided（未定）
+    - not sure if Tsubomi makes distinction between these two consonants
+      - tell me if you are familiar with the difference between these two and know whether Tsubomi differentiate so.
 - english (英語)
   - if the wordings come from an English phrase but written in katakana
   - not english translation (英訳ではない)
