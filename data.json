@@ -6,6 +6,7 @@
         "orilang": "",
         "screenshot": "comics/10.png",
         "highlight": "comics/10_1.png",
+        "meaning": "",
         "source": "ユメステひと幕 第10話「蕾語を学ぼう-入門編-」 (https://x.com/wds_game/status/1717819887253598704)"
     },
     {
@@ -15,6 +16,7 @@
         "orilang": "",
         "screenshot": "comics/10.png",
         "highlight": "comics/10_2.png",
+        "meaning": "",
         "source": "ユメステひと幕 第10話「蕾語を学ぼう-入門編-」 (https://x.com/wds_game/status/1717819887253598704)"
     },
     {
@@ -24,15 +26,167 @@
         "orilang": "",
         "screenshot": "comics/10.png",
         "highlight": "comics/10_3.png",
+        "meaning": "",
         "source": "ユメステひと幕 第10話「蕾語を学ぼう-入門編-」 (https://x.com/wds_game/status/1717819887253598704)"
     },
     {
         "phrase": "陽光授かりし花園",
-        "pronunciation": "ロクス・アモエヌス",
+        "pronunciation": "ロクスアモエヌス",
         "english": "",
         "orilang": "locus amoenus",
         "screenshot": "comics/10.png",
         "highlight": "comics/10_4.png",
-        "source": "ユメステひと幕 第10話「蕾語を学ぼう-入門編-」 (https://x.com/wds_game/status/1717819887253598704)"
+        "meaning": "",
+        "source": "（ロクス・アモエヌス）ユメステひと幕 第10話「蕾語を学ぼう-入門編-」 (https://x.com/wds_game/status/1717819887253598704)"
+    },
+    {
+        "phrase": "運命の迷い子",
+        "pronunciation": "ストレイシープ",
+        "english": "stray sheep",
+        "orilang": "",
+        "screenshot": "side_story/1.png",
+        "highlight": "side_story/1_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "漆黒の迷宮",
+        "pronunciation": "ダークラビリンス",
+        "english": "dark labyrinth",
+        "orilang": "",
+        "screenshot": "side_story/1.png",
+        "highlight": "side_story/1_2.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "祝福の印",
+        "pronunciation": "ブレスサイン",
+        "english": "bless sign",
+        "orilang": "",
+        "screenshot": "side_story/1.png",
+        "highlight": "side_story/1_3.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "偶然",
+        "pronunciation": "たまさか",
+        "english": "",
+        "orilang": "",
+        "screenshot": "side_story/2.png",
+        "highlight": "side_story/2_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "全能",
+        "pronunciation": "アカシックレコード",
+        "english": "akashic record",
+        "orilang": "akashic records",
+        "screenshot": "side_story/2.png",
+        "highlight": "side_story/2_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "無限地図",
+        "pronunciation": "エタニティアトラス",
+        "english": "eternity atlas",
+        "orilang": "",
+        "screenshot": "side_story/3.png",
+        "highlight": "side_story/3_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "全能",
+        "pronunciation": "アカシックレコード",
+        "english": "akashic record",
+        "orilang": "akashic records",
+        "screenshot": "side_story/4.png",
+        "highlight": "side_story/4_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "魔眼",
+        "pronunciation": "イービルアイ",
+        "english": "evil eye",
+        "orilang": "",
+        "screenshot": "side_story/4.png",
+        "highlight": "side_story/4_2.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "荒れ狂う群勢",
+        "pronunciation": "レギオン",
+        "english": "legion",
+        "orilang": "",
+        "screenshot": "side_story/5.png",
+        "highlight": "side_story/5_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編"
+    },
+    {
+        "phrase": "魔術盤",
+        "pronunciation": "ウィジャボード",
+        "english": "ouija board",
+        "orilang": "",
+        "screenshot": "side_story/6.png",
+        "highlight": "side_story/6_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
+    },
+    {
+        "phrase": "たったひとつのサインペン",
+        "pronunciation": "ユニークアイテム",
+        "english": "unique item",
+        "orilang": "",
+        "screenshot": "side_story/6.png",
+        "highlight": "side_story/6_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
+    },
+    {
+        "phrase": "荒れ狂う群勢",
+        "pronunciation": "レギオン",
+        "english": "legion",
+        "orilang": "",
+        "screenshot": "side_story/7.png",
+        "highlight": "side_story/7_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
+    },
+    {
+        "phrase": "魔術盤",
+        "pronunciation": "ウィジャボード",
+        "english": "ouija board",
+        "orilang": "",
+        "screenshot": "side_story/8.png",
+        "highlight": "side_story/8_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
+    },
+    {
+        "phrase": "禁断の扉",
+        "pronunciation": "フォービデンドア",
+        "english": "forbidden door",
+        "orilang": "",
+        "screenshot": "side_story/9.png",
+        "highlight": "side_story/9_1.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
+    },
+    {
+        "phrase": "荒れ狂う群勢",
+        "pronunciation": "レギオン",
+        "english": "legion",
+        "orilang": "",
+        "screenshot": "side_story/9.png",
+        "highlight": "side_story/9_2.png",
+        "meaning": "",
+        "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 後編"
     }
 ]
