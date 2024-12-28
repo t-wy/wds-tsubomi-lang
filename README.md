@@ -10,7 +10,9 @@ World Dai Star — Tsubomi Language Database
 - phrase (用語)
 - pronunciation (読み方)
   - only used if the pronunciations are different from the typical ones
-    - leave it blank if it is pronounced as-is, but a delivering some special meaning.
+    - leave it blank if the phrase is pronounced as-is, but is delivering some special meaning.
+      - include so in the "meaning" field
+  - leave it blank if you know it sounds unfamiliar, but cannot identify the words
   - can be in hiragana (当て字) or katakana (loan words・外来語)
   - include "・" only if there are official furigana (振り仮名) having appeared in text form
     - except established prefixes like (「ザ・」＝the)
