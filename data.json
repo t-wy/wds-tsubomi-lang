@@ -77,6 +77,28 @@
         "notes": ""
     },
     {
+        "phrase": "神の啓示",
+        "pronunciation": "ディバインレベレーション",
+        "english": "divine revelation",
+        "orilang": "",
+        "screenshot": "spot_story/4.png",
+        "highlight": "spot_story/4_1.png",
+        "meaning": "",
+        "source": "スポットストーリー 電気街 猫足蕾、烏森大黒 「むっ……この気配は…」",
+        "notes": "「リベレーション」ではないようだ"
+    },
+    {
+        "phrase": "華",
+        "pronunciation": "オーラ",
+        "english": "",
+        "orilang": "aura",
+        "screenshot": "spot_story/5.png",
+        "highlight": "spot_story/5_1.png",
+        "meaning": "",
+        "source": "スポットストーリー テーマパーク 猫足蕾、静香 「はっ、この気配は……」",
+        "notes": ""
+    },
+    {
         "phrase": "運命の迷い子",
         "pronunciation": "ストレイシープ",
         "english": "stray sheep",
