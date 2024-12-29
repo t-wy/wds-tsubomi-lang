@@ -573,14 +573,14 @@
     },
     {
         "phrase": "漆黒の烏",
-        "pronunciation": "ブラックレイブン",
+        "pronunciation": "ブラックレイヴン",
         "english": "black raven",
         "orilang": "",
         "screenshot": "main_story/denki_1-9_2.png",
         "highlight": "main_story/denki_1-9_2_1.png",
         "meaning": "",
         "source": "メインストーリー 劇団電姫 第1章 第9話 群雄割拠",
-        "notes": ""
+        "notes": "クレイヴン vs クレイブン"
     },
     {
         "phrase": "招かざる明日",
@@ -636,6 +636,28 @@
         "meaning": "",
         "source": "メインストーリー 劇団電姫 第1章 第18話 変わる運命",
         "notes": "https://ja.wikipedia.org/wiki/グランドクロス"
+    },
+    {
+        "phrase": "不定形生物",
+        "pronunciation": "スライム",
+        "english": "slime",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-18_6.png",
+        "highlight": "main_story/denki_1-18_6_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第18話 変わる運命",
+        "notes": ""
+    },
+    {
+        "phrase": "精神攻撃",
+        "pronunciation": "マインドクラッシュ",
+        "english": "mind crush",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-18_7.png",
+        "highlight": "main_story/denki_1-18_7_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第18話 変わる運命",
+        "notes": "Notice the difference between crush/crash/clash"
     },
     {
         "phrase": "神の啓示",
