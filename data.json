@@ -78,14 +78,14 @@
     },
     {
         "phrase": "神の啓示",
-        "pronunciation": "ディバインレベレーション",
+        "pronunciation": "ディヴァインレヴェレーション",
         "english": "divine revelation",
         "orilang": "",
         "screenshot": "spot_story/4.png",
         "highlight": "spot_story/4_1.png",
         "meaning": "",
         "source": "スポットストーリー 電気街 猫足蕾、烏森大黒 「むっ……この気配は…」",
-        "notes": "「リベレーション」ではないようだ、「ディヴァインレヴェレーション」かも（？）"
+        "notes": "ディバインレベレーション（？）、×「リ」ベレーション"
     },
     {
         "phrase": "華",
@@ -177,14 +177,14 @@
     },
     {
         "phrase": "魔眼",
-        "pronunciation": "イービルアイ",
+        "pronunciation": "イーヴィルアイ",
         "english": "evil eye",
         "orilang": "",
         "screenshot": "side_story/4.png",
         "highlight": "side_story/4_2.png",
         "meaning": "",
         "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編",
-        "notes": "イーヴィル（？）"
+        "notes": "イービルアイ（？）"
     },
     {
         "phrase": "荒れ狂う群勢",
@@ -580,7 +580,7 @@
         "highlight": "main_story/denki_1-9_2_1.png",
         "meaning": "",
         "source": "メインストーリー 劇団電姫 第1章 第9話 群雄割拠",
-        "notes": "クレイヴン vs クレイブン"
+        "notes": "ブラッククレイブン（？）"
     },
     {
         "phrase": "招かざる明日",
@@ -661,14 +661,14 @@
     },
     {
         "phrase": "神の啓示",
-        "pronunciation": "ディバインレベレーション",
+        "pronunciation": "ディヴァインレヴェレーション",
         "english": "divine revelation",
         "orilang": "",
         "screenshot": "main_story/denki_1-18_3.png",
         "highlight": "main_story/denki_1-18_3_1.png",
         "meaning": "",
         "source": "メインストーリー 劇団電姫 第1章 第18話 変わる運命",
-        "notes": ""
+        "notes": "ディバインレベレーション（？）"
     },
     {
         "phrase": "招かざる明日",

@@ -16,10 +16,17 @@ World Dai Star — Tsubomi Language Database
   - can be in hiragana (当て字) or katakana (loan words・外来語)
   - include "・" only if there are official furigana (振り仮名) having appeared in text form
     - except established prefixes like (「ザ・」＝the)
-  - 「バ」行 vs 「ヴァ」行？
-    - undecided（未定）
-    - not sure if Tsubomi makes distinction between these two consonants
-      - tell me if you are familiar with the difference between these two and know whether Tsubomi differentiate so.
+  - 外来語の表記のゆれ
+    - 「バ」行 vs 「ヴァ」行？
+      - currently using the 「ヴ」 one if the corresponding word contains a "v"
+        - to use this database in quizzes, consider normalizing 「ヴァ、ヴィ、(略)」to the corresponding 「バ、ビ、(略)」to treat both as correct
+      - not sure if Tsubomi makes distinction between these two consonants
+        - tell me if you are familiar with the difference between these two and know whether Tsubomi differentiate so.
+    - Trailing "ー" (語尾の「ー」)
+      - Sometimes both variants are used in texts (e.g. Computer (コンピューター vs コンピュータ))
+      - The way to differentiate so from speech is to notice how the vowels sound like (long vs short) and count the mora（モーラ） of the ending sound
+      - to use this database in quizzes, we recommend ignoring the trailing ー when doing comparisons, or even filter the 「ー」 out.
+        - if the question is shown with number of texts like 〇〇〇〇 style, it is recommended to just show the trailing "ー" in the text (e.g. 〇〇〇〇〇〇ー) 
 - english (英語)
   - if the wordings come from an English phrase but written in katakana
   - not english translation (英訳ではない)
