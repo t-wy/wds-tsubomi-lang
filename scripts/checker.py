@@ -23,10 +23,16 @@ with open(path + "/../data.csv") as csvfile:
 assert csv_content_from_json == csv_content, "Failed\nCSV content is different from one generated from JSON content"
 assert json_content_from_csv == json_content, "Failed\nJSON content is different from one generated from CSV content"
 
+imgpaths = []
 for entry in data:
     if entry.get("screenshot", "") != "":
-        assert isfile(path + "/../img/" + entry["screenshot"]), "Failed\nScreenshot file does not exist"
+        imgpaths.append(path + "/../img/" + entry["screenshot"])
     if entry.get("highlight", "") != "":
-        assert isfile(path + "/../img/" + entry["highlight"]), "Failed\nHighlight file does not exist"
+        imgpaths.append(path + "/../img/" + entry["highlight"])
+non_existing_imgpaths = [imgpath for imgpath in imgpaths if not isfile(imgpath)]
+if len(non_existing_imgpaths) > 0:
+    for imgpath in non_existing_imgpaths:
+        print(f"Failed\nHighlight file ({imgpath}) does not exist")
+    assert False
 
 print("Passed")
