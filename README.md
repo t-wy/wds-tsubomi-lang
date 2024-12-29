@@ -43,6 +43,14 @@ World Dai Star — Tsubomi Language Database
   - extra information regarding the word / URL(s)
 ### Images (画像)
 - img/
+### Scripts (スクリプト)
+- scripts/
+- csv_to_json.py, json_to_csv.py
+  - convert between csv and json to sync both versions
+- checker.py
+  - check whether the data are synced, and whether provided image paths exists
+- roll.py
+  - a sample script to pick a random entry without biases towards duplicate entries
 
 ## Additional Information (補足)
 - Only those with pronunciations different from the typical ones are included with pronunciations.
@@ -58,4 +66,5 @@ World Dai Star — Tsubomi Language Database
 - Game (ゲームアプリ): ©Sirius/Project WDS Developed and Published by KMS,inc.
 
 ## Tags (タグ)
-`#ワーダイ` `#ユメステ` `#wds` `#yumesute`
+`#ワーダイ` `#ユメステ` `#wds` `#yumesute`<br>
+`#蕾語でGO` (?)
