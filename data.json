@@ -184,7 +184,7 @@
         "highlight": "side_story/4_2.png",
         "meaning": "",
         "source": "サイドストーリー 【水晶玉に映る未来】猫足蕾 — 前編",
-        "notes": ""
+        "notes": "イーヴィル（？）"
     },
     {
         "phrase": "荒れ狂う群勢",
@@ -415,6 +415,83 @@
         "highlight": "side_story/22_1.png",
         "meaning": "",
         "source": "サイドストーリー 【悪鬼退散っ！】猫足蕾 — 後編",
+        "notes": ""
+    },
+    {
+        "phrase": "祝福の報せ",
+        "pronunciation": "ハピネスブレス",
+        "english": "happiness bless",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_1.png",
+        "highlight": "main_story/denki_1-4_1_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "華",
+        "pronunciation": "オーラ",
+        "english": "",
+        "orilang": "aura",
+        "screenshot": "main_story/denki_1-4_1.png",
+        "highlight": "main_story/denki_1-4_1_2.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "悪魔の所業",
+        "pronunciation": "デストラップ",
+        "english": "deathtrap",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_2.png",
+        "highlight": "main_story/denki_1-4_2_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "能力者",
+        "pronunciation": "タレント",
+        "english": "talent",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_3.png",
+        "highlight": "main_story/denki_1-4_3_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "運命の札",
+        "pronunciation": "ディスティニーカード",
+        "english": "destiny card",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_3.png",
+        "highlight": "main_story/denki_1-4_3_2.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "空間",
+        "pronunciation": "スフィア",
+        "english": "sphere",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_3.png",
+        "highlight": "main_story/denki_1-4_3_3.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
+        "notes": ""
+    },
+    {
+        "phrase": "招かざる明日",
+        "pronunciation": "ナイトメアエフェクト",
+        "english": "nightmare effect",
+        "orilang": "",
+        "screenshot": "main_story/denki_1-4_4.png",
+        "highlight": "main_story/denki_1-4_4_1.png",
+        "meaning": "",
+        "source": "メインストーリー 劇団電姫 第1章 第4話 電姫たち",
         "notes": ""
     }
 ]
