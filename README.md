@@ -26,7 +26,7 @@ World Dai Star — Tsubomi Language Database
       - Sometimes both variants are used in texts (e.g. Computer (コンピューター vs コンピュータ))
       - The way to differentiate so from speech is to notice how the vowels sound like (long vs short) and count the mora（モーラ） of the ending sound
       - to use this database in quizzes, we recommend ignoring the trailing ー when doing comparisons, or even filter the 「ー」 out.
-        - if the question is shown with number of texts like 〇〇〇〇 style, it is recommended to just show the trailing "ー" in the text (e.g. 〇〇〇〇〇〇ー) 
+        - if the question is shown with number of characters like 〇〇〇〇 style, it is recommended to just show the trailing "ー" in the text (e.g. 〇〇〇〇〇〇ー) 
 - english (英語)
   - if the wordings come from an English phrase but written in katakana
   - not english translation (英訳ではない)
