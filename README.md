@@ -46,6 +46,13 @@ World Dai Star — Tsubomi Language Database
   - (e.g. 漆黒の刻（ダーク・クロノス）＝夜)
 - source (出典)
   - the place the screenshot is captured (e.g. スポットストーリー 歌川高等学校 猫足蕾、鳳ここな 「ふむ……なるほど。」)
+- speaker (発言者)
+  - 蕾 (default (デフォルト))
+  - Others (e.g. 知冴)
+    - May filter those out if one want to have pure 蕾語 list
+- hasruby (公式ルビー)
+  - 0：あり
+  - 1：なし
 - notes (ノート)
   - extra information regarding the word / URL(s)
 ### Images (画像)
