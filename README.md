@@ -2,6 +2,10 @@
 ワールドダイスター — 蕾語データベース<br>
 World Dai Star — Tsubomi Language Database
 
+## Missing Screenshots
+- サイドストーリー ★4【デンキウィズザ……！？】猫足蕾
+- サイドストーリー ★4【追想の帰路】猫足蕾
+
 ## Structure (構造)
 ### Index (索引)
 - data.csv
