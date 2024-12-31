@@ -10,6 +10,16 @@ World Dai Star — Tsubomi Language Database
 ### Index (索引)
 - data.csv
 - data.json
+- data.js
+- checklist.csv
+  - Include all known episodes with tsubomi
+    - checked:
+      - already checked 蕾語があるかどうか調べました
+      - can double-check if you wish
+    - missing_images:
+      - missing screenshots right now
+      - would be grateful if anyone can provide so
+      - 求：スクリーンショット
 #### Data Fields
 - phrase (用語)
 - pronunciation (読み方)
