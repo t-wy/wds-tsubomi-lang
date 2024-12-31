@@ -17,7 +17,7 @@ World Dai Star — Tsubomi Language Database
       - already checked 蕾語があるかどうか調べました
       - can double-check if you wish
     - missing_images:
-      - missing screenshots right now
+      - checked, but missing screenshots right now
       - would be grateful if anyone can provide so
       - 求：スクリーンショット
 #### Data Fields
