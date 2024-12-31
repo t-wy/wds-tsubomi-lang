@@ -13,6 +13,12 @@ with open(path + "/../data.json") as jsonfile:
         writer.writerows(entries)
         csvfile.seek(0)
         csv_content_from_json = csvfile.read()
+with open(path + "/../data.js") as jsfile:
+    js_content = jsfile.read()
+    prefix, suffix = "var tsubomi_data = ", ";"
+    assert js_content.startswith(prefix) and js_content.endswith(suffix), "Failed\nInvalid data.js content"
+    json_content_from_js = js_content[len(prefix):-len(suffix)]
+assert json_content_from_js == json_content, "Failed\nJSON content is different from one generated from JS content"
 with open(path + "/../data.csv") as csvfile:
     csv_content = csvfile.read()
     csvfile.seek(0)
